@@ -8,5 +8,5 @@ A transformers based implementation for **inductive link prediction** in RDF gra
 
 
 
-##Licence
+
 This project is licensed under the MIT License. See the `LICENSE` file for details.
