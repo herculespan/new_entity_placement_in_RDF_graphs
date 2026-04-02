@@ -5,3 +5,8 @@ A transformers based implementation for **inductive link prediction** in RDF gra
 - **Graph Embeddings** using a GRAPH-BERT based graph encoder
 - **Fusion** between textual and graph representations
 - Handling of the **inductive (unseen) entities** via a text-to-graph mapper
+
+
+
+##Licence
+This project is licensed under the MIT License. See the `LICENSE` file for details.
