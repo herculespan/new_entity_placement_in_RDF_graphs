@@ -1,4 +1,4 @@
-#Inductive Link Prediction with Text + Graph Topology
+# Inductive Link Prediction with Text + Graph Topology
 
 A transformers based implementation for **inductive link prediction** in RDF graphs that combines: 
 - **Text embeddings** from entity descriptions, using BERT encoder 
