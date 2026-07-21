@@ -1,0 +1,1 @@
+This is a piece of text containing mentions of the term {entity}: {text}. Provide a summary of that text having a length of not more than 40 words, keeping as many references of the term {entity} as possible.
