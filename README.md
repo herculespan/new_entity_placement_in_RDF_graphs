@@ -41,7 +41,7 @@ The fusion component consists of (i) a stack of **fully connected layers** that 
 
 The **gating layer** takes as input a vector that contains (i) the text-based embedding, (ii) the graph-based embedding, and (iii) a scalar (gate hint) that indicates whether the graph-based embedding is computed from the graph or predicted from text. Its output is passed through the `sigmoid` activation to become a weighting coefficient $\in \left(0,1\right)$. 
 
-By initializing the gating layer with **zero weights** and **bias** = $1$, we nudged text by giving $\aplpha$ the starting value $0.73$ ($=sigmoid\left(1\right)$).
+By initializing the gating layer with **zero weights** and **bias** = $1$, we nudged text by giving $\alpha$ the starting value $0.73$ ($=sigmoid\left(1\right)$).
 
 ### Inductive link prediction component
 The inductive link prediction component consists of (i) a **text**-**to**-**graph mapper**, (ii) a **relation embedding layer**, and (iii) a **fully connected layer** projecting relation embeddings into the common vector space. 
