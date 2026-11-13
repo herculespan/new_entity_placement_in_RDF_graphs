@@ -1,0 +1,5 @@
+Dimension,Krippendorff alpha,Exact agreement,Within one agreement,Mean consensus
+Faithfulness,0.3665776509643819,0.165,0.67,2.47
+Relevance,0.29198924792978687,0.37,0.815,4.52
+Semantic consistency,0.24708395214505863,0.16,0.87,4.165
+Informativeness,0.2269101587771074,0.11,0.57,2.78
